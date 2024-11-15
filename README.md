@@ -66,6 +66,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/975552ac-644b-4452-affc-dbe8b8d404ec)
 
 **TRUTH TABLE**
-<img width="960" alt="image" src="https://github.com/Ganesh23013987/SYNCHRONOUS-UP-COUNTER/assets/147473768/766cb2b8-ce13-456a-9f82-dd84a8d65247">
+![WhatsApp Image 2024-11-15 at 09 23 43_d1d51cf6](https://github.com/user-attachments/assets/520b6eb1-4fd5-4978-aa14-6c9edd317264)
+
 **RESULTS:**
 Hence a 4 bit synchronous up counter is implemented correctly and program code is successfully executed.
