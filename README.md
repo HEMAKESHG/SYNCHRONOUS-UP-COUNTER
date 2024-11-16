@@ -58,6 +58,9 @@ begin
 end
 endmodule
 ```
+**TRUTH TABLE**
+
+![WhatsApp Image 2024-11-15 at 09 23 43_d1d51cf6](https://github.com/user-attachments/assets/520b6eb1-4fd5-4978-aa14-6c9edd317264)
 
 **RTL LOGIC UP COUNTER**
 ![image](https://github.com/user-attachments/assets/674e98df-f13d-465b-b280-107ad6ed34f2)
@@ -65,9 +68,6 @@ endmodule
 **TIMING DIAGRAM FOR IP COUNTER**
 ![image](https://github.com/user-attachments/assets/975552ac-644b-4452-affc-dbe8b8d404ec)
 
-**TRUTH TABLE**
-
-![WhatsApp Image 2024-11-15 at 09 23 43_d1d51cf6](https://github.com/user-attachments/assets/520b6eb1-4fd5-4978-aa14-6c9edd317264)
 
 **RESULTS:**
 Hence a 4 bit synchronous up counter is implemented correctly and program code is successfully executed.
